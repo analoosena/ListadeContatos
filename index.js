@@ -18,7 +18,6 @@ function novoContato(){
     if(nomes.includes(nomeContato.value)){
         alert(`O nome do contato ${nomeContato.value} já foi inserido`)
     }
-    if(tel-contato)
 
     else{
         nomes.push(nomeContato.value);
